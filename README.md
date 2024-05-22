@@ -1,2 +1,3 @@
 # Machine-Learning
-Machine Learning -Projects and codes
+Machine Learning Algorithms and projects
+
